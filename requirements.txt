@@ -1,0 +1,17 @@
+simpleitk~=2.0.2
+pillow~=8.2.0
+pyradiomics
+torchvision~=0.10.0
+pybdm~=0.1.0
+scipy~=1.6.2
+cpbd~=1.0.7
+numpy~=1.20.2
+opencv
+skimage
+pillow~=8.2.0
+pytorch_lightning
+requests
+tqdm
+ipyplot
+pandas
+attr
